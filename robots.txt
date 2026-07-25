@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-2j4ofx.blackshirealmonds.com/sitemap.xml
